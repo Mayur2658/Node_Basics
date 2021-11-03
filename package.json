@@ -1,0 +1,24 @@
+{
+  "name": "node_basics",
+  "version": "1.0.0",
+  "description": "This is to learn basics",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite" : "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayur2658/Node_Basics.git"
+  },
+  "author": "Mayur Borkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayur2658/Node_Basics/issues"
+  },
+  "homepage": "https://github.com/Mayur2658/Node_Basics#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
